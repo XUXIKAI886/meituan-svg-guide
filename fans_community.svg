@@ -5,6 +5,76 @@
   
   <!-- 标题区域 -->
   <rect x="0" y="0" width="1280" height="110" fill="#FF5722"/>
-  <text x="640" y="55" font-family="Arial" font-size="36" font-weight="bold" fill="white" text-anchor="middle">美团外卖粉丝群运营指南</text>
-  <text x="640" y="95" font-family="Arial" font-size="22" fill="white" text-anchor="middle">建立私域流量池，提高用户粘性与复购率</text>
+  <text x="640" y="55" font-family="Arial" font-size="36" font-weight="bold" fill="white" text-anchor="middle">美团外卖粉丝群管理与运营</text>
+  <text x="640" y="95" font-family="Arial" font-size="22" fill="white" text-anchor="middle">构建高效私域流量池提升复购率</text>
+  
+  <!-- 粉丝管理概览区域 -->
+  <rect x="40" y="130" width="1200" height="120" rx="15" ry="15" fill="#FFC107"/>
+  <text x="640" y="170" font-family="Arial" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">粉丝群运营价值</text>
+  <line x1="300" y1="185" x2="980" y2="185" stroke="#333" stroke-width="2"/>
+  <text x="640" y="220" font-family="Arial" font-size="20" fill="#333" text-anchor="middle">提升用户复购率、降低获客成本、促进用户转介绍、增加平台外订单</text>
+  
+  <!-- 粉丝群建立区域 -->
+  <rect x="40" y="270" width="580" height="220" rx="15" ry="15" fill="#2196F3"/>
+  <text x="330" y="305" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">粉丝群建立与引流</text>
+  <line x1="130" y1="320" x2="530" y2="320" stroke="white" stroke-width="2"/>
+  
+  <rect x="60" y="335" width="540" height="140" rx="10" ry="10" fill="#64B5F6"/>
+  <text x="80" y="360" font-family="Arial" font-size="20" font-weight="bold" fill="white">建群策略:</text>
+  <text x="80" y="390" font-family="Arial" font-size="16" fill="white">• 群名设置："{店名}专属会员群"简洁明了</text>
+  <text x="80" y="420" font-family="Arial" font-size="16" fill="white">• 引流方式：外卖订单附赠加群二维码卡片</text>
+  <text x="80" y="450" font-family="Arial" font-size="16" fill="white">• 入群激励：首次入群赠送5-10元无门槛优惠券</text>
+  <text x="80" y="480" font-family="Arial" font-size="16" fill="white">• 人数控制：单群控制在200-500人，多开分群</text>
+  
+  <!-- 粉丝群运营区域 -->
+  <rect x="660" y="270" width="580" height="220" rx="15" ry="15" fill="#9C27B0"/>
+  <text x="950" y="305" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">粉丝群日常运营</text>
+  <line x1="750" y1="320" x2="1150" y2="320" stroke="white" stroke-width="2"/>
+  
+  <rect x="680" y="335" width="540" height="140" rx="10" ry="10" fill="#BA68C8"/>
+  <text x="700" y="360" font-family="Arial" font-size="20" font-weight="bold" fill="white">内容策略:</text>
+  <text x="700" y="390" font-family="Arial" font-size="16" fill="white">• 定期推送：每周2-3次优惠信息与新品信息</text>
+  <text x="700" y="420" font-family="Arial" font-size="16" fill="white">• 专属福利：群内专享85折、买一送一等活动</text>
+  <text x="700" y="450" font-family="Arial" font-size="16" fill="white">• 互动内容：投票选新品、晒单有奖等活动</text>
+  <text x="700" y="480" font-family="Arial" font-size="16" fill="white">• 发布时机：用餐高峰前1-2小时推送最有效</text>
+  
+  <!-- 会员等级与权益区域 -->
+  <rect x="40" y="510" width="380" height="220" rx="15" ry="15" fill="#4CAF50"/>
+  <text x="230" y="545" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">会员等级与权益</text>
+  <line x1="130" y1="560" x2="330" y2="560" stroke="white" stroke-width="2"/>
+  
+  <rect x="60" y="575" width="340" height="140" rx="10" ry="10" fill="#66BB6A"/>
+  <text x="80" y="600" font-family="Arial" font-size="20" font-weight="bold" fill="white">等级体系:</text>
+  <text x="80" y="630" font-family="Arial" font-size="16" fill="white">• 普通会员：入群即可，享首单优惠</text>
+  <text x="80" y="660" font-family="Arial" font-size="16" fill="white">• 铜牌会员：消费3次，享9折优惠</text>
+  <text x="80" y="690" font-family="Arial" font-size="16" fill="white">• 银牌会员：月消费5次，享8.5折+赠品</text>
+  <text x="80" y="720" font-family="Arial" font-size="16" fill="white">• 金牌会员：月消费8次以上，享8折+免配送</text>
+  
+  <!-- 活动策划区域 -->
+  <rect x="450" y="510" width="380" height="220" rx="15" ry="15" fill="#FF9800"/>
+  <text x="640" y="545" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">粉丝群活动策划</text>
+  <line x1="540" y1="560" x2="740" y2="560" stroke="white" stroke-width="2"/>
+  
+  <rect x="470" y="575" width="340" height="140" rx="10" ry="10" fill="#FFB74D"/>
+  <text x="490" y="600" font-family="Arial" font-size="20" font-weight="bold" fill="white">活动类型:</text>
+  <text x="490" y="630" font-family="Arial" font-size="16" fill="white">• 拼团活动：3-5人成团享6-7折特惠</text>
+  <text x="490" y="660" font-family="Arial" font-size="16" fill="white">• 秒杀活动：每周固定时间1-2个爆品限量秒杀</text>
+  <text x="490" y="690" font-family="Arial" font-size="16" fill="white">• 分享有礼：转发朋友圈集赞送代金券</text>
+  <text x="490" y="720" font-family="Arial" font-size="16" fill="white">• 节日特惠：节假日专属优惠套餐</text>
+  
+  <!-- 数据分析区域 -->
+  <rect x="860" y="510" width="380" height="220" rx="15" ry="15" fill="#3F51B5"/>
+  <text x="1050" y="545" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">粉丝群数据分析</text>
+  <line x1="950" y1="560" x2="1150" y2="560" stroke="white" stroke-width="2"/>
+  
+  <rect x="880" y="575" width="340" height="140" rx="10" ry="10" fill="#7986CB"/>
+  <text x="900" y="600" font-family="Arial" font-size="20" font-weight="bold" fill="white">关键指标:</text>
+  <text x="900" y="630" font-family="Arial" font-size="16" fill="white">• 群成员复购率（目标40%以上）</text>
+  <text x="900" y="660" font-family="Arial" font-size="16" fill="white">• 群内活动转化率（目标15-20%）</text>
+  <text x="900" y="690" font-family="Arial" font-size="16" fill="white">• 会员活跃度（月均2次以上互动）</text>
+  <text x="900" y="720" font-family="Arial" font-size="16" fill="white">• 群成员流失率（控制在月5%以内）</text>
+  
+  <!-- 底部提示 -->
+  <rect x="40" y="740" width="1200" height="30" rx="15" ry="15" fill="#FFC107"/>
+  <text x="640" y="760" font-family="Arial" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">粉丝群管理核心：持续提供价值、保持活跃互动、精准营销、数据驱动决策</text>
 </svg>
